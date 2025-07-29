@@ -3,7 +3,7 @@ This is the code repository for [Hands-On Unity Game Development, Fifth Edition]
 
 **Unlock the power of Unity 6.1 and build your dream game**
 
-The authors of this book are -[Nicolas Alejandro Borromeo](https://www.linkedin.com/in/borromeusgames?originalSubdomain=uk), [Karolis Ozerovas](https://www.linkedin.com/in/karolisozerovas/?originalSubdomain=es)
+The authors of this book are -[Nicolas Alejandro Borromeo](https://www.linkedin.com/in/borromeusgames?originalSubdomain=uk)
 ## About the book
 
 Take your game development skills to the next level. Dive into the world of game creation confidently by elevating your game development skills. This book is your definitive and practical guide to unlocking the full potential of Unity 6.1. Every chapter is designed to empower you to customize your own game, not just replicate what's in the book. This new edition includes immersive Augmented Reality (AR) experiences and performance optimization with Data-Oriented Technology Stack (DOTS).
