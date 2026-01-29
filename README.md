@@ -132,9 +132,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to know the Author
 _Nicolas Alejandro Borromeo_ is a game developer currently working for Unity Technologies as a Senior Software Development Consultant and Unity Certifi ed Instructor in London. He is helping Unity clients with their projects all over the world. He started using Unity in 2008 and teaching it in 2012 in Universities and Education Institutes.
 
-_Karolis Ozerovas_ is a software developer working as a Senior Software Development Consultant at Unity with over a decade of experience creating games and applications across a range of industries. He has supported developers around the world in optimizing workflows and boosting performance. In addition, he is a published creator on the Unity Asset Store.
-
-
 ## Other Related Books
 - [Unity Cookbook - Fift h Edition](https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026)
 - [Learning C# by Developing Games with Unity - Seventh Edition](https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-seventh-edition/9781837636877)
